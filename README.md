@@ -6,7 +6,7 @@ Image Classification Model Using Transfer Learning
 
 ## Concepts
 * Tranfer Learning Architecture: MobileNetCV2
-* OpenCV: It's implementation is simply a continuous cycle of: Detect Face, Slice Face Image, Pass through Classifier, Get and Display Prediction.
+* OpenCV: It's implementation is simply a continuous cycle of Detect Face, Slice Face Image, Pass through Classifier, Get and Display Prediction.
 * The MobileNetV2 is followed by our DNN composed of GlobalAveragePooling, Dense and Dropout layers.
 
 ## Final Result
