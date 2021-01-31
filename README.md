@@ -5,9 +5,9 @@ Image Classification Model Using Transfer Learning
 >This model is made for Covid-19 mask detection using OpenCV, Keras/TensorFlow, and Deep Learning. It basically detects the faces of people and identifies if they are wearing a mask or not.
 
 ## Concepts
-Tranfer Learning Architecture: MobileNetCV2
-The OpenCV implementation is simply a continuous cycle of: Detect Face, Slice Face Image, Pass through Classifier, Get and Display Prediction.
-The MobileNetV2 is followed by our DNN composed of GlobalAveragePooling, Dense and Dropout layers.
+* Tranfer Learning Architecture: MobileNetCV2
+* The OpenCV implementation is simply a continuous cycle of: Detect Face, Slice Face Image, Pass through Classifier, Get and Display Prediction.
+* The MobileNetV2 is followed by our DNN composed of GlobalAveragePooling, Dense and Dropout layers.
 
 ## Final Result
 ![](Result1.png)
